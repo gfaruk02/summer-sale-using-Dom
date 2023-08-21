@@ -131,6 +131,7 @@ button.btn-coupon-field{
     /* margin-top: 28px; */
     background-color: #F9F6E2;
     padding: 50px 0px;
+    font-weight: 500;
 }
  /* Mobile Screen  */
 @media screen and (max-width:425px) {
